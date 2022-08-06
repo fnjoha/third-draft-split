@@ -1,0 +1,3 @@
+[submodule "themes/hugo-split-fnjoha"]
+	path = themes/hugo-split-fnjoha
+	url = https://github.com/fnjoha/hugo-split-fnjoha.git
