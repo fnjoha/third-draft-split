@@ -20,13 +20,13 @@ googleAnalytics = ""
   favicon = "favicon.ico"
 
   # Copyright
-  copyright = "&copy;2017 Your Name"
+  copyright = "&copy;2017 Francis Njoh"
 
   # Section - Content
   [params.content]
-    name = "Jenny Jones"
-    tagline = "Designer. Stylist. Nomad."
-    bio = "Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna](#) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in](#) malesuada congue, [purus sem](#) ullamcorper massa, sit amet lacinia nibh enim sed massa."
+    name = "Francis Njoh"
+    tagline = "Cloud Architect. Designer. Maker."
+    bio = "I am a passion Cloud Engineer by day and curious and curious by night. I believe simplicity is key to productivity and habitual learning is key to growth. I strong believe in applying your knowledge for the greater good and that's how you make an impact on the world. Reach out if you have any questions. Feel free to click on the link below if you want to know more about my background"
 
   # Section - Visual
   [params.visual]
@@ -77,8 +77,8 @@ googleAnalytics = ""
         url = "#"
 
       [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
+        text = "Linkedin"
+        url = "https://www.linkedin.com/in/francis-njoh"
 
   # Links List #3
   [[params.links]]
