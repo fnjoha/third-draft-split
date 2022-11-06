@@ -57,7 +57,7 @@ googleAnalytics = ""
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "#"
+        url = "Francisnjoh@gmail.com"
 
       [[params.links.list1.link]]
         text = "Linkedin"
@@ -73,17 +73,17 @@ googleAnalytics = ""
         url = "#"
 
       [[params.links.list2.link]]
-        text = "Instagram"
+        text = "Youtube"
         url = "#"
 
       [[params.links.list2.link]]
         text = "Github"
-        url = "https://www.linkedin.com/in/francis-njoh"
+        url = "https://github.com/fnjoha"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Projects"
 
       [[params.links.list3.link]]
         text = "Link One"
