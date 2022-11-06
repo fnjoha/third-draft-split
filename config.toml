@@ -57,7 +57,7 @@ googleAnalytics = ""
 
       [[params.links.list1.link]]
         text = "Resume"
-        url = "https://www.linkedin.com/in/francis-njoh/details/experience/"
+        url = "https://www.linkedin.com/in/francis-njoh/"
 
       [[params.links.list1.link]]
         text = "Linkedin"
