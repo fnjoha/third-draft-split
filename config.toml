@@ -56,8 +56,8 @@ googleAnalytics = ""
         url = "#"
 
       [[params.links.list1.link]]
-        text = "Email"
-        url = "Francisnjoh@gmail.com"
+        text = "Resume"
+        url = "https://www.linkedin.com/in/francis-njoh/details/experience/"
 
       [[params.links.list1.link]]
         text = "Linkedin"
@@ -70,7 +70,7 @@ googleAnalytics = ""
 
       [[params.links.list2.link]]
         text = "Twitter"
-        url = "#"
+        url = "https://twitter.com/fnjoha1"
 
       [[params.links.list2.link]]
         text = "Youtube"
@@ -87,15 +87,15 @@ googleAnalytics = ""
 
       [[params.links.list3.link]]
         text = "Link One"
-        url = "#"
+        url = "https://github.com/fnjoha/hugo-sustain"
 
       [[params.links.list3.link]]
         text = "Link Two"
-        url = "#"
+        url = "https://github.com/fnjoha/Homemade-radiation-hugo2"
 
       [[params.links.list3.link]]
         text = "Link Three"
-        url = "#"
+        url = "https://github.com/fnjoha/portio-hugo"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
