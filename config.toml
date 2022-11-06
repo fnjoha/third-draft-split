@@ -26,7 +26,7 @@ googleAnalytics = ""
   [params.content]
     name = "Francis Njoh"
     tagline = "Cloud Architect. Designer. Maker."
-    bio = "I am a passion Cloud Engineer by day and curiouser and curiouser Cloud Architect by night. I believe simplicity is key to productivity outcome and habitual learning is key to growth. I strongly believe in applying my cloud computing knowledge to help maintain the integrity of the customer facing brands from deployment to go Live. Feel free to click on the links below if you want to know more about my background"
+    bio = "I am a passion Cloud Engineer by day and curiouser and curiouser Cloud Architect by night. I believe simplicity is key to productive outcome and habitual learning is key to growth. I strongly believe in applying my Cloud Computing knowledge to help maintain the integrity of the customer facing brands. Feel free to click on the links below if you want to know more"
 
   # Section - Visual
   [params.visual]
