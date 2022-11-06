@@ -60,8 +60,8 @@ googleAnalytics = ""
         url = "#"
 
       [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+        text = "Linkedin"
+        url = "https://www.linkedin.com/in/francis-njoh"
 
   # Links List #2
   [[params.links]]
@@ -77,7 +77,7 @@ googleAnalytics = ""
         url = "#"
 
       [[params.links.list2.link]]
-        text = "Linkedin"
+        text = "Github"
         url = "https://www.linkedin.com/in/francis-njoh"
 
   # Links List #3
