@@ -86,15 +86,15 @@ googleAnalytics = ""
       heading = "Projects"
 
       [[params.links.list3.link]]
-        text = "Link One"
-        url = "https://github.com/fnjoha/hugo-sustain"
+        text = "Basic Bio Page Design for Customer"
+        url = "https://puravidamn.netlify.app"
 
       [[params.links.list3.link]]
-        text = "Link Two"
+        text = "Code Review"
         url = "https://github.com/fnjoha/Homemade-radiation-hugo2"
 
       [[params.links.list3.link]]
-        text = "Link Three"
+        text = "Code Review"
         url = "https://github.com/fnjoha/portio-hugo"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
